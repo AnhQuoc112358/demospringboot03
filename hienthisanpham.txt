@@ -1,4 +1,2 @@
-File hiển thị sản phẩm
-may B
 File hiển thị sản phẩm 
-may A
+
